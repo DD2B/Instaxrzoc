@@ -18,7 +18,7 @@ php login.php
 
 ......... أوامر التشغيل Run script:
 
-cd storykd1s/zns
+cd Instaxrzoc/xrzoc
 
 php run.php
 
