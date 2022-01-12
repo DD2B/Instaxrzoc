@@ -8,7 +8,7 @@ pkg install unzip
 
 git clone https://github.com/xrzo/Instaxrzoc
 
-cd storykd1s
+cd Instaxrzoc
 
 unzip xrzoc.zip
 
